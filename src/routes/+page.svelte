@@ -22,7 +22,8 @@
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		try editing <strong>src/routes/+page.svelte</strong><br>
+		Svelte is cool
 	</h2>
 
 	<Counter />
@@ -39,6 +40,10 @@
 
 	h1 {
 		width: 100%;
+	}
+
+	h2 {
+		text-align: center;
 	}
 
 	.welcome {
