@@ -71,8 +71,7 @@
 			justify-content: center;
 	}
 	.card {
-			width: 175px;
-			height: 175px;
+			max-width: 175px;
 			border: 1px solid black;
 			display: inline-block;
 			margin: 10px;
